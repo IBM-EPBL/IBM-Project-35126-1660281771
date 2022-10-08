@@ -1,6 +1,6 @@
 # IBM-Project-35126-1660281771
 
-## AI based discourse for Banking Industry ![download](https://user-images.githubusercontent.com/76097107/194715364-c82f9f2d-3b27-490c-86b9-03caa40f01c7.png)
+## AI based discourse for Banking Industry  ![download (2)](https://user-images.githubusercontent.com/76097107/194722638-fed1a57e-0db6-498a-9881-d02197548010.png) 
 
 
 **Technology: Artificial Intelligence** 
