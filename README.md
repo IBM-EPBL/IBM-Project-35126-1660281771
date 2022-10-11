@@ -17,14 +17,14 @@
 
 * Project Design & Planning
     - Ideation Phase
-        - [ ] Literature Survey
-        - [ ] Problem Statement
-        - [ ] Empathy Map
-        - [ ] Brainstorm
-        - [ ] Top 3 Ideas
+        - [x] Literature Survey
+        - [x] Problem Statement
+        - [x] Empathy Map
+        - [x] Brainstorm
+        - [x] Top 3 Ideas
     - Project Design Phase 1
-        - [ ] Proposed Solution
-        - [ ] Problem-Solution Fit
+        - [x] Proposed Solution
+        - [x] Problem-Solution Fit
         - [ ] Solution Architecture
     - Project Design Phase 1
         - [ ] Customer Journey Maps
