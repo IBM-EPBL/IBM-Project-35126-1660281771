@@ -25,9 +25,9 @@
     - Project Design Phase 1
         - [x] Proposed Solution
         - [x] Problem-Solution Fit
-        - [ ] Solution Architecture
+        - [x] Solution Architecture
     - Project Design Phase 1
-        - [ ] Customer Journey Map
+        - [x] Customer Journey Map
         - [ ] Data Flow Diagram & User Stories
         - [x] Solution Requirements
         - [ ] Technology Architecture 
