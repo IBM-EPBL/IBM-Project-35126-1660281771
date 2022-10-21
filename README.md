@@ -20,16 +20,16 @@
         - [x] Literature Survey
         - [x] Problem Statement
         - [x] Empathy Map
-        - [x] Brainstorm
+        - [x] Brainstorm & Idea Prioritization
         - [x] Top 3 Ideas
     - Project Design Phase 1
         - [x] Proposed Solution
         - [x] Problem-Solution Fit
         - [ ] Solution Architecture
     - Project Design Phase 1
-        - [ ] Customer Journey Maps
-        - [ ] Customer Journey Maps
-        - [ ] Data Flow Diagrams
+        - [ ] Customer Journey Map
+        - [ ] Data Flow Diagram & User Stories
+        - [x] Solution Requirements
         - [ ] Technology Architecture 
 
 ## Assignments 
@@ -37,6 +37,7 @@
   - [x] Assignment 1
   - [x] Assignment 2
   - [x] Assignment 3
+  - [ ] Assignment 4
     
    
 ## About the Project :speech_balloon::robot:
