@@ -28,9 +28,12 @@
         - [x] Solution Architecture
     - Project Design Phase 1
         - [x] Customer Journey Map
-        - [ ] Data Flow Diagram & User Stories
+        - [x] Data Flow Diagram & User Stories
         - [x] Solution Requirements
-        - [ ] Technology Architecture 
+        - [x] Technology Architecture 
+    - Project Planning Phase
+        - [ ] Milestone & Activity List
+        - [ ] Sprint Delivery Plan
 
 ## Assignments 
   
