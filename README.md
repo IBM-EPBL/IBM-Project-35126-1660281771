@@ -32,8 +32,16 @@
         - [x] Solution Requirements
         - [x] Technology Architecture 
     - Project Planning Phase
-        - [ ] Milestone & Activity List
-        - [ ] Sprint Delivery Plan
+        - [x] Milestone & Activity List
+        - [x] Sprint Delivery Plan
+    - Project Development Phase
+        - [x] Sprint 1
+        - [x] Sprint 2
+        - [x] Sprint 3
+        - [x] Sprint 4
+    - Final Deliverables
+        - [x] Final code
+        
 
 ## Assignments 
   
