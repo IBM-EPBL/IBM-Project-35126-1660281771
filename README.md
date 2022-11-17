@@ -40,8 +40,9 @@
         - [x] Sprint 3
         - [x] Sprint 4
     - Final Deliverables
-        - [x] Final code
-        
+        - [ ] Final code
+        - [x] Project Link(Website)
+        - [ ] Demo Video
 
 ## Assignments 
   
