@@ -41,8 +41,9 @@
         - [x] Sprint 3
         - [x] Sprint 4
         - [x] Testing
-                - [x] Performance Testing
-                - [x] User Acceptance Testing
+                
+               - [x] Performance Testing
+               - [x] User Acceptance Testing
     - Final Deliverables
         - [x] Source code
         - [x] Project Document
