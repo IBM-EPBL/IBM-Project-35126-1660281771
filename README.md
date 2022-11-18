@@ -23,7 +23,6 @@
         - [x] Problem Statement
         - [x] Empathy Map
         - [x] Brainstorm & Idea Prioritization
-        - [x] Top 3 Ideas
     - Project Design Phase 1
         - [x] Proposed Solution
         - [x] Problem-Solution Fit
