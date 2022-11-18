@@ -13,6 +13,8 @@
 
 **Team Members**: Prasannakumar M, Don Davies B M, Manimaran A
 
+**Project link**: https://pnt2022tmid45335.netlify.app/
+
 ## Tasks
 
 * Project Design & Planning
@@ -39,10 +41,13 @@
         - [x] Sprint 2
         - [x] Sprint 3
         - [x] Sprint 4
+        - [x] Testing
+                - [x] Performance Testing
+                - [x] User Acceptance Testing
     - Final Deliverables
-        - [ ] Final code
-        - [x] Project Link(Website)
-        - [ ] Demo Video
+        - [x] Source code
+        - [x] Project Document
+        - [x] Project Demo Video
 
 ## Assignments 
   
